@@ -55,9 +55,11 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 * [What I Learned Doing 250 Interviews at Google](talks/what-i-learned-doing-250-interviews-at-google.md) by **Moishe Lettvin**, 2014.
 * [What I wish I had known before scaling Uber to 1000 services](talks/what-i-wish-i-had-known-before-scaling-uber-to-1000-services.md) by **Matt Ranney**, 2016.
 
+
 ### Articles
 
 * [Microservices](articles/microservices.md) by **Martin Fowler**, 2014.
+
 
 ### Papers
 
@@ -67,6 +69,7 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 * [MapReduce: Simplified Data Processing on Large Clusters](papers/map-reduce.md), by **Jeffrey Dean** and **Sanjay Ghemawat**, 2004.
 * [Out of the Tar Pit](papers/out-of-the-tar-pit.md) by **Ben Moseley** and **Peter Marks**, 2006.
 * [Reflections on Trusting Trust](papers/reflections-on-trusting-trust.md) by **Ken Thomson**, 1984.
+
 
 ## Taking notes
 
